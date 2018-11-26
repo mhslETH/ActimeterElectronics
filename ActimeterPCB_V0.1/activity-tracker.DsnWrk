@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=pcb_activity_tracker\activity_tracker.PrjPCB
+[Project2]
+ProjectPath=pcb_activity_tracker_tester\activity_tracker_tester.PrjPCB

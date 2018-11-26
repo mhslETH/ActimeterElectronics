@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Lukas\Documents\Daten\Leitwert\git\wehrenbach\activity-tracker\pcb_activity_tracker_tester\activity_tracker_tester.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=activity_tracker_tester-roundholes.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=activity_tracker_tester-slotholes.txt|LayerPairs=gtl,gbl

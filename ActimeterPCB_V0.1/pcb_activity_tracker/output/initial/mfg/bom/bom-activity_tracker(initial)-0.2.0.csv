@@ -1,0 +1,17 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity,Value,Voltage,Supplier 1,Supplier Part Number 1
+
+"BATTERY,""Battery"",""BAT1"",""BK-912_MIN_FP"",""BATTERY"",""1"","""","""",""Digi-Key"",""BK-912-G-CT-ND"""
+"100n,""Capacitor"",""C2"",""CAPC1608X95N"",""C"",""1"",""100n"",""16V"",""Digi-Key"",""311-1088-1-ND"""
+"16p,""Capacitor"",""C4, C5"",""CAPC1608X95N"",""C"",""2"",""16p"",""50V"",""Digi-Key"",""1276-2204-1-ND"""
+"100u,""Capacitor"",""C6, C7"",""CAPC3216X18N"",""C"",""2"",""100u"",""6V3"",""Digi-Key"",""490-10525-1-ND"""
+"1n,""Capacitor"",""C10"",""CAPC1608X95N"",""C"",""1"",""1n"",""50V"",""Digi-Key"",""478-1215-1-ND"""
+"TC2050-IDC-NL,""ARM Mini JTAG / SWD 10-pin connector"",""DBG1"",""TC2050-IDC-NL"",""TC2050-IDC-NL"",""1"","""","""",""Digi-Key"",""TC2050-IDC-NL-ND"""
+",""Ferrite Bead"",""FB1"",""RESC1608X55N"",""FB"",""1"","""","""",""Digi-Key"",""587-1895-1-ND"""
+"RED,""LED"",""LED1, LED2"",""LED0603"",""LED"",""2"","""","""",""Digi-Key"",""754-1541-1-ND"""
+"32.768kHz,""Crystal"",""Q1"",""ABS06"",""Q-0Shield"",""1"","""","""",""Digi-Key"",""535-10247-1-ND"""
+"PFET,""P-Channel MOSFET, 20V 2.6A"",""Q2"",""SOT95P237X112-3N"",""IRLML2246TRPBF"",""1"","""","""",""Digi-Key"",""IRLML2246TRPBFCT-ND"""
+"1k,""Resistor"",""R1, R2, R5"",""RESC1608X55N"",""R"",""3"",""1k"","""",""Digi-Key"",""1276-5062-1-ND"""
+"SW-PB-4T,""Tact switch"",""S1"",""TL3315NF250Q"",""SW-PB-4T"",""1"","""","""",""Digi-Key"",""EG4622CT-ND"""
+"ADXL363,""Micropower 3-Sensor Combination  Including Acceleration and Temperature"",""U1"",""LGA_ADXL363"",""ADXL363"",""1"","""","""",""Digi-Key"",""ADXL363BCCZ-RL7CT-ND"""
+"BL652-SA,""RF TXRX MOD BLUETOOTH INT ANT"",""U2"",""BL652-SA_NO_KEEPOUT"",""BL652-SA"",""1"","""","""",""Digi-Key"",""BL652-SA-01-CT-ND"""
+"IS25LP128,""3V SERIAL FLASH MEMORY WITH 133MHZ MULTI  I/O   SPI & QUAD I/O QPI DTR INTERFACE"",""U3"",""QFN127P500X600X80-8M_MIN_EP"",""IS25LP128"",""1"","""","""",""Digi-Key"",""706-1341-ND"""

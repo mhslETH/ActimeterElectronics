@@ -1,0 +1,153 @@
+*************************************************************
+FileName = gerber-activity_tracker_support(initial)-0.2.0.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : gerber-activity_tracker_support(initial)-0.2.0.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : MidLayer1
+      File : gerber-activity_tracker_support(initial)-0.2.0.G1
+
+    Adding Layer      : MidLayer1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mid-Layer 2
+      File : gerber-activity_tracker_support(initial)-0.2.0.G2
+
+    Adding Layer      : Mid-Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : gerber-activity_tracker_support(initial)-0.2.0.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : gerber-activity_tracker_support(initial)-0.2.0.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : gerber-activity_tracker_support(initial)-0.2.0.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : gerber-activity_tracker_support(initial)-0.2.0.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : gerber-activity_tracker_support(initial)-0.2.0.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : gerber-activity_tracker_support(initial)-0.2.0.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : gerber-activity_tracker_support(initial)-0.2.0.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Route Cutter Tool
+      File : gerber-activity_tracker_support(initial)-0.2.0.GM3
+
+    Adding Layer      : Route Cutter Tool
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Outline
+      File : gerber-activity_tracker_support(initial)-0.2.0.GM4
+
+    Adding Layer      : Outline
+
+
+Used DCodes :
+    D13
+*************************************************************
+

@@ -1,0 +1,23 @@
+Design
+[x] All Labels in Top/Bottom Overlay updated
+[x] All Polygon Pours and Pouring order updated
+[x] All Design Changes in PCB synced
+[x] All PCB Libraries updated
+[x] Project Compilation passes
+
+Branding
+[x] Logo
+[x] Version number
+
+Outputs
+[x] DRC passes
+[x] make sure the output containers are updated
+[x] output path is output/<variant-name>/...
+[x] pdf names are ...-<project-name>-(<variant-name>).pdf
+[x] Gerber generated
+[x] BOM generated
+[x] Schematics generated
+[x] Exported STEP
+
+Ordering
+[x] BOM Supplier Part Number Dbl Checked
